@@ -19,31 +19,32 @@
 
 ### Bitcoin
 
-| Project                                                              | Scope                                 | Tech            | Status       |
-| -------------------------------------------------------------------- | ------------------------------------- | --------------- | ------------ |
-| [**Raito**](https://github.com/starkware-bitcoin/raito)              | ZK Bitcoin client in Cairo            | ⚙️ Cairo        | 🟡 *Pending* |
-| [**Shinigami**](https://github.com/starkware-bitcoin/shinigami)      | Bitcoin Script VM in Cairo            | 🧰 Cairo        | 🟡 *Pending* |
-| [**Stratum × STARKs**](https://github.com/starkware-bitcoin/stratum) | Trustless block‑template verification | 🛠️ Rust + Cairo | 🟡 *Pending* |
-| [**Mikan**](https://github.com/starkware-bitcoin/mikan)              | ZK‑friendly DA layer for L2s          | 🌐 Rust         | 🟡 *Pending* |
+| Project                                                              | Scope                                                        | Tech           | Status      |
+| -------------------------------------------------------------------- | ------------------------------------------------------------ | -------------- | ----------- |
+| [**Raito**](https://github.com/starkware-bitcoin/raito)              | ZK Bitcoin client in Cairo                                   | ⚙️ Cairo        | 🟡 *Pending* |
+| [**Shinigami**](https://github.com/starkware-bitcoin/shinigami)      | Bitcoin Script VM in Cairo                                   | 🧰 Cairo        | 🟡 *Pending* |
+| [**Stratum × STARKs**](https://github.com/starkware-bitcoin/stratum) | Trustless block‑template verification                        | 🛠️ Rust + Cairo | 🟡 *Pending* |
+| [**s2morrow**](https://github.com/starkware-bitcoin/s2morrow)        | STARK-based signature aggregation for the Post Quantum world | 🔒 Cairo        | 🟡 *Pending* |
+| [**Mikan**](https://github.com/starkware-bitcoin/mikan)              | ZK‑friendly DA layer for L2s                                 | 🌐 Rust         | 🟡 *Pending* |
 
 ### Liquid
 
-| Project                                                                   | Scope                                | Tech       | Status       |
-| ------------------------------------------------------------------------- | ------------------------------------ | ---------- | ------------ |
+| Project                                                                   | Scope                                | Tech      | Status      |
+| ------------------------------------------------------------------------- | ------------------------------------ | --------- | ----------- |
 | [**Stark Symphony**](https://github.com/starkware-bitcoin/stark-symphony) | STARK verifier in Simfony for Liquid | 🎶 Simfony | 🟡 *Pending* |
 
 ### Cashu
 
-| Project                                                         | Scope                         | Tech      | Status   |
-| --------------------------------------------------------------- | ----------------------------- | --------- | -------- |
+| Project                                                         | Scope                         | Tech     | Status  |
+| --------------------------------------------------------------- | ----------------------------- | -------- | ------- |
 | [**MSSMT**](https://github.com/starkware-bitcoin/mssmt-rs)      | Merkle‑Sum Sparse Merkle Tree | 🦀 Rust   | 🟢 *PoC* |
 | [**Cashubrew**](https://github.com/starkware-bitcoin/cashubrew) | Cashu mint                    | ✨ Elixir | 🟢 *PoC* |
 | [**Coconut**](https://github.com/starkware-bitcoin/coconut)     | Cashu mint                    | 🥥 Zig    | 🟢 *PoC* |
 
 ### Nostr
 
-| Project                                                       | Scope                                 | Tech            | Status       |
-| ------------------------------------------------------------- | ------------------------------------- | --------------- | ------------ |
+| Project                                                       | Scope                                 | Tech           | Status      |
+| ------------------------------------------------------------- | ------------------------------------- | -------------- | ----------- |
 | [**Askeladd**](https://github.com/starkware-bitcoin/askeladd) | Verifiable computation for Nostr DVMs | ⛓️ Rust + Cairo | 🟢 *PoC*     |
 | [**starkstr**](https://github.com/starkware-bitcoin/starkstr) | Nostr × STARKs                        | 🌟 Rust + Cairo | 🟡 *Pending* |
 
