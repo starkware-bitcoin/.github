@@ -31,7 +31,8 @@
 
 | Project                                                                   | Scope                                | Tech      | Status      |
 | ------------------------------------------------------------------------- | ------------------------------------ | --------- | ----------- |
-| [**Stark Symphony**](https://github.com/starkware-bitcoin/stark-symphony) | STARK verifier in Simfony for Liquid | 🎶 Simfony | 🟡 *Pending* |
+| [**Simply**](https://github.com/starkware-bitcoin/simply) | Command line tool for SimplicityHL | 🎶 Simplicity | 🟡 *Pending* |
+| [**Stark Symphony**](https://github.com/starkware-bitcoin/stark-symphony) | STARK verifier in SimplicityHL for Liquid | 🎶 Simplicity | 🟡 *Pending* |
 
 ### Cashu
 
